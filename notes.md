@@ -11,3 +11,4 @@
 - HTTP API with POST requests to query AI models
 - WSL2 gives Windows a real Linux kernel
 - Ubuntu 24.04 is most common OS for AI infrastructure
+- Git user craertion done and push done
